@@ -1,0 +1,23 @@
+# Next.js Task Management Frontend
+
+A task management frontend application built with Next.js. It connects to a backend API to perform CRUD operations, provides filtering options, and uses a modal interface for creating and editing tasks.
+
+---
+
+## Features
+
+- **Server-Side Rendering (SSR)** for enhanced performance and SEO using `getServerSideProps`.
+- **Dynamic Routes** for task details and editing tasks.
+- **Task Management**: Create, read, update, and delete tasks via a modern UI.
+- **Filter Tasks**: Filter tasks by status (`pending`, `inprogress`, `completed`).
+- **Responsive Design**: Fully responsive layout using Tailwind CSS.
+- **Modal Interface**: Interactive modals for creating and editing tasks.
+
+---
+
+## Prerequisites
+
+- **Node.js** (v14 or later)
+- A running instance of the backend API. Ensure the [Node.js Task Management API](https://github.com/mansoor1025/task-management-backend) is set up and running.
+
+---
